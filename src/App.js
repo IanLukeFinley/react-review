@@ -5,7 +5,7 @@ import ProfileEdit from "./Content.js";
 
 
 function App() {
-  return <SProfileEdit />
+  return <ProfileEdit />
 }
 
 export default App;
